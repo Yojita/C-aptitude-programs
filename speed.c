@@ -4,7 +4,7 @@
 
 int main()
 {
-    int distance = 500, time = 10, speed;
+    int distance = 500, time = 10, speed;  
 
     speed = (distance / time);
     printf("The speed of the car in km/hr is : %d\n", speed);
